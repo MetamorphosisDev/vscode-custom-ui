@@ -1,0 +1,142 @@
+{
+  "todohighlight.toggleURI": false,
+  "todohighlight.keywords": [
+    "DEBUG:",
+    "REVIEW:",
+    "TODO:",
+    "FIXME:",
+    {
+      "text": "BUG:",
+      "color": "#ffffff",
+      "backgroundColor": "#ff0000",
+    },
+    {
+      "text": "IMPORTANT:",
+      "color": "#000",
+      "backgroundColor": "#ffea00",
+      "isWholeLine": true,
+    },
+    {
+      "text": "OPTIMIZE:",
+      "color": "#00ffff",
+    },
+  ],
+
+  //  {
+  //           "text": "NOTE:",
+  //           "color": "#ff0000",
+  //           "backgroundColor": "yellow",
+  //           "overviewRulerColor": "grey"
+  //       },
+  //       {
+  //           "text": "HACK:",
+  //           "color": "#000",
+  //           "isWholeLine": false,
+  //       },
+  //       {
+  //           "text": "TODO:",
+  //           "color": "red",
+  //           "border": "1px solid red",
+  //           "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+  //           "backgroundColor": "rgba(0,0,0,.2)",
+  //           //other styling properties goes here ...
+  //       }
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "animations.Install-Method": "Apc Customize UI++",
+  "animations.Enabled": false,
+  "animations.CursorAnimation": true,
+
+  "window.titleBarStyle": "custom",
+  "explorer.compactFolders": false,
+  "material-icon-theme.folders.color": "#42a5f5",
+  "git.openRepositoryInParentFolders": "never",
+  "css.lint.unknownAtRules": "ignore",
+  "todohighlight.isEnable": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.colorTheme": "GitHub Dark Default",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.tag",
+        "settings": { "foreground": "#d76666" },
+      },
+      {
+        "scope": "entity.other.attribute-name",
+        "settings": { "foreground": "#a770ff" },
+      },
+      {
+        "scope": "string",
+        "settings": { "foreground": "#7dcfff" },
+      },
+      {
+        "scope": "punctuation.definition.string",
+        "settings": { "foreground": "#c0caf5" },
+      },
+      {
+        "scope": "keyword",
+        "settings": { "foreground": "#f7768e" },
+      },
+    ],
+  },
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "workbench.productIconTheme": "fluent-icons",
+
+
+
+  // ---------- Workbench Settings Upd 
+  "workbench.colorCustomizations":{
+    "inlineparameter.annotationBackground":"#282A3600",
+    "inlineparameter.annotationForeground":"7b82af",
+    "scrollbar.shadow":"#24292e00", 
+  },
+
+  "workbench.editorLargeFileConfirmation": 10024,
+  "workbench.layoutControl.enabled": false,
+
+
+  "workbench.editor.showTabs":"single",
+
+
+  "workbench.tree.indent": 16,
+  "workbench.startupEditor": "none",
+  "workbench.editor.empty.hint": "hidden",
+
+  // ---------- Breadchums confifuration ---------------
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.symbolPath": "off",
+  "breadcrumbs.filePath": "on",
+
+  // ---------- Editor Settings ---------------
+  "editor.fontFamily": "'Fira Code Retina', 'Hack Nerd Font', Monospace",
+  "editor.fontSize": 16,
+  "editor.fontWeight": 450,
+  "editor.lineHeight": 26,
+  "editor.lineNumbers": "on",
+  "editor.folding": true,
+  "editor.glyphMargin": true,
+  "editor.guides.indentation": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.cursorStyle": "underline",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.stickyScroll.enabled": true,
+
+   // ---------- Terminal Settings ---------------
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.fontFamily": "'MesloLGS NF', 'Hack Nerd Font', 'Monospace'",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.enableMultiLinePasteWarning": "always",
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.cursorBlinking": true,
+
+  // ----------- Additional Configurations ---------
+  "vscode_custom_css.imports": [
+  "file:///c%3A/Users/ASUS/.vscode/vscode-custom/script.js",
+  "file:///c%3A/Users/ASUS/.vscode/vscode-custom/style.css"
+  ],
+}
