@@ -1,6 +1,6 @@
 <div align="center">
 
-![Preview](https://vectorseek.com/wp-content/uploads/2023/10/vscode-Logo-Vector.svg-.png)
+![Preview](https://raw.githubusercontent.com/fabiospampinato/vscode-projects-plus/master/resources/logo/logo.png)
 
 # ✦ VSCode Custom UI
 
