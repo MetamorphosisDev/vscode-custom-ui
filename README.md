@@ -1,6 +1,6 @@
 <div align="center">
 
-![Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png)
+![Preview](https://vectorseek.com/wp-content/uploads/2023/10/vscode-Logo-Vector.svg-.png)
 
 # ✦ VSCode Custom UI
 
