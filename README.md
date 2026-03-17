@@ -1,5 +1,5 @@
-<div align="center">
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba5ba755-75c5-4380-a273-a48c103b3081" /><div align="center">
+![Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png)
 # ✦ VSCode Custom UI
 
 **A hand-crafted Visual Studio Code reskin — cleaner, rounder, and more alive.**
