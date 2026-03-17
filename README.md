@@ -1,6 +1,6 @@
 <div align="center">
 
-![Preview](https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png)
+![Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/500px-Visual_Studio_Code_1.35_icon.svg.png)
 
 # ✦ VSCode Custom UI
 
