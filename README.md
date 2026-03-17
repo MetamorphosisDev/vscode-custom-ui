@@ -1,3 +1,6 @@
+<div align="center">
+
+![Preview](https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png)
 
 # ✦ VSCode Custom UI
 
@@ -6,7 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-a78bfa?style=flat-square)](LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.85%2B-7c6af7?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Extension](https://img.shields.io/badge/Requires-Custom%20CSS%20%26%20JS%20Loader-5a4fcf?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
-[![Stars](https://img.shields.io/github/stars/MetamorphosisDev/vscode-custom-ui?style=flat-square&color=f9a8d4)](https://github.com/MetamorphosisDev/vscode-custom-ui)
+[![Stars](https://img.shields.io/github/stars/your-username/vscode-custom-ui?style=flat-square&color=f9a8d4)](https://github.com/your-username/vscode-custom-ui)
+
 </div>
 
 ---
