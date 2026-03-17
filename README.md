@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ba5ba755-75c5-4380-a273-a48c103b3081" /><div align="center">
+
 # ✦ VSCode Custom UI
 
 **A hand-crafted Visual Studio Code reskin — cleaner, rounder, and more alive.**
